@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin2</string>
+    <string name="submit">submit</string>
+    <string name="shake">Shake</string>
+</resources>
